@@ -1,0 +1,86 @@
+.container {
+
+}
+
+.principal {
+  width: 1200px;
+  height: 503px;
+  position: 0;
+}
+.navup {
+  position: -295, 0;
+  width: 1200px;
+  height: 30px;
+}
+.central {
+  width: 1200px;
+  height: 92px;
+  padding-top: 109px;
+  position: 0;
+}
+.logo {
+  background-size: 272px 92px;
+  height: 92px;
+  width: 272px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*.frenchgoog {
+  color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+    left: 215px;
+    position: relative;
+    top: 76px;
+    white-space: nowrap;
+}*/
+
+.centerdown {
+  width: 487px;
+  height: 121px;
+  padding-left: 173px;
+  padding-right: 173px;
+  padding-top: 8px;
+  margin: -1px 0 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.search {
+  width: 443px;
+  height: 38px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.undersearch {
+  width: 487px;
+  height: 58px;
+  padding: 18px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.button {
+  width: 487px;
+  height: 58px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.firstinput {
+  height: 34px;
+  width: 115px;
+  border: 1px;
+  margin-left: 75px;
+  margin-right: auto;
+  padding-left: 16px ;
+  padding-right: 16px;
+}
+
+.secondinput {
+  height: 34px;
+  width: 115px;
+  border: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px ;
+  padding-right: 16px;
+}

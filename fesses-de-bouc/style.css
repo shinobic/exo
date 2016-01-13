@@ -1,0 +1,38 @@
+
+
+.body {
+  margin-left: 0px;
+}
+
+.container {
+  margin: 0 auto;
+position: relative;
+
+}
+
+.barre_navigateur_login {
+  height: 110px;
+  width: 100%;
+  background-color: #3b5998;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo {
+  color: white;
+  width: 170px;
+  height: 34px;
+  font-family: ;
+  padding-top: 25px;
+  padding-left: 30px;
+  font-size: 45px;
+
+}
+
+.email_motdepasse_float {
+
+ float: right;
+  margin-left: 20px;
+  display:inline;
+
+}
